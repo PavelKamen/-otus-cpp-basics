@@ -1,4 +1,4 @@
 # -otus-cpp-basics
-Learning C++ course
+Learning C++ course by otus plaform 
 
-main branch
+master branch

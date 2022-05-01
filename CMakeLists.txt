@@ -8,6 +8,8 @@ add_executable( guess_the_number
 	check_value.cpp
 	random_value.h
 	random_value.cpp
+	score_printing.h
+	score_printing.cpp
 )
 
 #add_executable( 03_homework
